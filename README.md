@@ -4,14 +4,14 @@ Reading And Learning From Source Code. 🛰
 
 ## Plan
 
-- [x] Koa
-- [x] Redux(JS Ver)
+- [x] [Koa](Koa/README.md)
+- [x] [Redux(JS Ver)](Redux-JS/README.md)
 - [ ] Redux(TS Ver)
-- [ ] Egg-GraphQL (WIP)
+- [x] Egg-GraphQL
 - [ ] Injection
 - [ ] React-Redux
 - [ ] Reach-Router (WIP)
-- [ ] 30SecondsCode 
+- [ ] 30SecondsCode
 
 ## Eureka
 
