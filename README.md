@@ -6,11 +6,11 @@ Reading And Learning From Source Code. 🛰
 
 - [x] [Koa](Koa/README.md)
 - [x] [Redux(JS Ver)](Redux-JS/README.md)
-- [ ] Redux(TS Ver)
-- [x] Egg-GraphQL
+- [x] [Redux(TS Ver)](Redux-TS/README.md)
+- [x] [Egg-GraphQL](Egg-GraphQL/README.md)
 - [ ] Injection
-- [ ] React-Redux
-- [ ] Reach-Router (WIP)
+- [ ] React-Redux (WIP)
+- [ ] Reach-Router
 - [ ] 30SecondsCode
 
 ## Eureka
